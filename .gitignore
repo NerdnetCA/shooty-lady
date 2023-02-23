@@ -1,4 +1,7 @@
 
+
+assets-src/
+
 # Godot-specific ignores
 .import/
 export.cfg

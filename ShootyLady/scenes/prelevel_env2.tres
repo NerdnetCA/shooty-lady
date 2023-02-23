@@ -1,0 +1,18 @@
+[gd_resource type="Environment" format=2]
+
+[resource]
+resource_local_to_scene = true
+background_mode = 4
+tonemap_mode = 2
+tonemap_exposure = 0.4
+dof_blur_near_enabled = true
+dof_blur_near_distance = 1.29
+dof_blur_near_amount = 0.17
+glow_enabled = true
+glow_levels/1 = true
+glow_intensity = 2.18
+glow_strength = 0.88
+glow_bloom = 0.15
+glow_blend_mode = 0
+adjustment_enabled = true
+adjustment_saturation = 2.5

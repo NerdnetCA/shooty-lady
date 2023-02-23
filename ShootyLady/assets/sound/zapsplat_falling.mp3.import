@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/zapsplat_falling.mp3-321465545ff4bf0dad803e137c862901.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/zapsplat_falling.mp3"
+dest_files=[ "res://.import/zapsplat_falling.mp3-321465545ff4bf0dad803e137c862901.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
